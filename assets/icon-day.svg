@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <defs><radialGradient id="Cd-halo" cx="512" cy="512" r="430" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#FBF7EF" stop-opacity="0.14"/><stop offset="0.45" stop-color="#FBF7EF" stop-opacity="0.059"/><stop offset="1" stop-color="#FBF7EF" stop-opacity="0"/></radialGradient><linearGradient id="Cd-door" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#FBF7EF"/></linearGradient></defs>
+  <rect width="1024" height="1024" fill="#4A3A21"/>
+  <rect width="1024" height="1024" fill="url(#Cd-halo)"/>
+  <path d="M258 787V429.5A254 254 0 0 1 766 429.5V787A61.5 61.5 0 0 1 704.5 848.5H319.5A61.5 61.5 0 0 1 258 787Z" fill="none" stroke="#C9A96E" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M314 786.5V429.5A198 198 0 0 1 710 429.5V786.5A6 6 0 0 1 704 792.5H320A6 6 0 0 1 314 786.5Z" fill="url(#Cd-door)"/>
+</svg>
